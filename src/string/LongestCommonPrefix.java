@@ -1,7 +1,7 @@
 package string;
 
 /**
- * @Description: 14. 最长公共前缀(简单)
+ * @Description: 14. 最长公共前缀(简单)     5 ms	37.3 MB
  * @Author: 無曦
  * @CreateDate: 2019/10/12 9:34
  */
