@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Stack;
 
 /**
- * @Description: 20. 有效的括号(简单)(百度过...)      3 ms	34.1 MB
+ * @Description: 20. 有效的括号(简单)(百度过思路...)      3 ms	34.1 MB
  * @Author: 無曦
  * @CreateDate: 2019/10/14 09:40
  */
